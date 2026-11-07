@@ -1,7 +1,7 @@
 # Technical Design Document (TDD)
 ## Road Transport Fleet Proof-of-Delivery (POD) Capture & Billing System
 
-**GitHub Repository**: `https://github.com/your-username/logistics-pod-billing` *(replace with your public repository URL)*  
+**GitHub Repository**: `https://github.com/tanisha259/fleet-pod-billing`  
 **Live Application URL**: `http://localhost:3000` *(or Vercel deployment link)*  
 **Client**: Company A (Chhatrapati Sambhajinagar, Maharashtra)  
 **Author**: Engineering Candidate  
